@@ -1,6 +1,6 @@
 # service-assistant-mini
 Telegram bot, written in Python, allows you to use a large number of neural networks for free.<br>
-The current working version is available at - t.me/servast_bot
+The current working version is available at - https://t.me/servast_bot
 
 ## Details
 The library is used for free use of neural networks - https://github.com/xtekky/gpt4free and the g4f provider.Provider.Blackbox.<br>
